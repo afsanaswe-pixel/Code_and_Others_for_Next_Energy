@@ -1,0 +1,9 @@
+File,Rows in source,Rows kept,Removed (missing/infinite)
+PINN4SOH/data/XJTU data/2C_battery-1.csv,375,362,13
+PINN4SOH/data/XJTU data/2C_battery-2.csv,392,374,18
+PINN4SOH/data/XJTU data/2C_battery-3.csv,387,365,22
+PINN4SOH/data/XJTU data/2C_battery-4.csv,384,362,22
+PINN4SOH/data/XJTU data/2C_battery-5.csv,393,373,20
+PINN4SOH/data/XJTU data/2C_battery-6.csv,391,374,17
+PINN4SOH/data/XJTU data/2C_battery-7.csv,393,371,22
+PINN4SOH/data/XJTU data/2C_battery-8.csv,405,388,17

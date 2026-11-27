@@ -1,0 +1,3 @@
+Configuration,folds,iterations_min,iterations_median,iterations_max,convergence_warnings
+mlp_raw,13,12,97.0,166,0
+mlp_self,13,12,95.0,168,0

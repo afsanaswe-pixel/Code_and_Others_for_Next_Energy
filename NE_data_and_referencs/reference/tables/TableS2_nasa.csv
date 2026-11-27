@@ -1,0 +1,9 @@
+Learner,Cell,RMSE (%),After projection (%),LB (%),delta (%),Projection helped
+gbr,B0005,1.74,1.76,0.57,0.56,No
+gbr,B0006,5.1,5.13,0.9,0.96,No
+gbr,B0007,1.13,1.04,0.95,0.48,Yes
+gbr,B0018,1.74,1.82,1.12,1.05,No
+ridge,B0005,6.38,6.21,1.61,0.56,Yes
+ridge,B0006,4.0,3.32,2.24,0.96,Yes
+ridge,B0007,3.62,3.2,1.7,0.48,Yes
+ridge,B0018,4.15,4.14,1.32,1.05,Yes

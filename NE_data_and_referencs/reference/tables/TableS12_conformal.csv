@@ -1,0 +1,5 @@
+Calibration,Overall coverage (%),Mean domain coverage (%),Lowest domain (%),Domains below 80%,Median bound / RMSE,Infinite bounds (%)
+Split (pooled cells),82.43,92.35,13 (HUST),1,4.07,0.0
+Weighted (covariate shift),88.89,91.79,42 (MIT-2017-06-30),2,3.72,23.51
+Group (dataset family),74.42,83.38,13 (HUST),5,1.55,0.0
+Hierarchical (domain level),91.47,96.7,57 (HUST),1,5.72,0.0

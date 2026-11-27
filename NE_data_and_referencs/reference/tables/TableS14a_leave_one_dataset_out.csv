@@ -1,0 +1,9 @@
+Features,Held-out dataset,Cells,Leave-one-domain-out (%),Leave-one-dataset-out (%),After projection (%),Cells improved (%),LB valid (%)
+raw,HUST,77,10.04,10.04,9.99,100.0,100.0
+raw,MIT,125,2.1,8.63,8.03,100.0,100.0
+raw,TJU,130,6.3,6.81,5.98,100.0,100.0
+raw,XJTU,55,1.88,4.68,4.67,94.55,100.0
+self,HUST,77,6.24,6.39,6.37,100.0,100.0
+self,MIT,125,0.72,13.77,13.3,100.0,100.0
+self,TJU,130,3.45,4.8,4.49,100.0,100.0
+self,XJTU,55,1.79,3.75,3.58,100.0,100.0
