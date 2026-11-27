@@ -1,0 +1,12 @@
+Configuration,Median online RMSE (%),After prefix projection (%),Cells improved (%),Domains improved (of 13),Prefix LB holds (%),"p, domain-level Wilcoxon (Holm)","p, mixed model (Holm)"
+"1D-CNN, self-ref.",4.92,4.76,50.9,5,97.93,1.000,1.000
+"GBR, raw",5.32,5.31,50.9,7,99.28,1.000,1.000
+"GBR, self-ref.",2.44,2.35,50.39,5,97.22,1.000,1.000
+"GBR, self-ref., all cycles",2.54,2.45,51.42,8,97.05,1.000,1.000
+"Tuned GBR, self-ref.",2.63,2.43,49.1,4,97.14,1.000,1.000
+"MLP, raw",6.52,5.56,65.12,10,99.25,0.526,0.139
+"MLP, self-ref.",4.01,3.83,74.16,10,97.38,0.526,1.000
+"PINN (Wang et al., 2024)",4.61,4.65,57.62,7,99.74,1.000,1.000
+"PINN, published per-cell scaling (non-deployable)",4.49,4.49,53.23,4,98.04,1.000,1.000
+"Ridge, raw",8.05,8.42,53.23,7,99.25,1.000,1.000
+"Ridge, self-ref.",5.36,5.11,59.95,9,99.17,1.000,1.000

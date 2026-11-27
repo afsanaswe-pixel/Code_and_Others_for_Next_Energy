@@ -1,0 +1,25 @@
+Mode,Threshold theta (%),Event,Alarm rate (%),Prevalence (%),Precision (%),Recall (%)
+offline,0.25,RMSE >= theta,72.87,99.74,100.0,73.06
+offline,0.25,RMSE >= 2%,72.87,56.59,60.99,78.54
+offline,0.5,RMSE >= theta,39.79,91.47,100.0,43.5
+offline,0.5,RMSE >= 2%,39.79,56.59,70.78,49.77
+offline,0.75,RMSE >= theta,16.02,81.14,100.0,19.75
+offline,0.75,RMSE >= 2%,16.02,56.59,82.26,23.29
+offline,1.0,RMSE >= theta,8.79,71.83,100.0,12.23
+offline,1.0,RMSE >= 2%,8.79,56.59,88.24,13.7
+offline,1.5,RMSE >= theta,3.1,61.76,100.0,5.02
+offline,1.5,RMSE >= 2%,3.1,56.59,100.0,5.48
+offline,2.0,RMSE >= theta,1.29,56.59,100.0,2.28
+offline,2.0,RMSE >= 2%,1.29,56.59,100.0,2.28
+"online, first half of life",0.25,RMSE >= theta,71.06,99.48,100.0,71.43
+"online, first half of life",0.25,RMSE >= 2%,71.06,33.33,45.45,96.9
+"online, first half of life",0.5,RMSE >= theta,29.72,73.9,99.13,39.86
+"online, first half of life",0.5,RMSE >= 2%,29.72,33.33,54.78,48.84
+"online, first half of life",0.75,RMSE >= theta,9.56,60.47,100.0,15.81
+"online, first half of life",0.75,RMSE >= 2%,9.56,33.33,70.27,20.16
+"online, first half of life",1.0,RMSE >= theta,4.91,50.65,94.74,9.18
+"online, first half of life",1.0,RMSE >= 2%,4.91,33.33,68.42,10.08
+"online, first half of life",1.5,RMSE >= theta,0.78,41.09,100.0,1.89
+"online, first half of life",1.5,RMSE >= 2%,0.78,33.33,66.67,1.55
+"online, first half of life",2.0,RMSE >= theta,0.0,33.33,,0.0
+"online, first half of life",2.0,RMSE >= 2%,0.0,33.33,,0.0

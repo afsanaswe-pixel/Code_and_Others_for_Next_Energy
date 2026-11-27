@@ -1,0 +1,9 @@
+Quantity,Value
+"Kendall's W of feature ranking, 13 models (permutation null mean; p)",0.744 (0.077; < 0.001)
+Mean pairwise Spearman of importance: leave-one-domain-out models,0.72
+Mean (range) Spearman of importance: models trained on disjoint halves of the domains,0.49 (0.03-0.78)
+Mean importance share: CC Q / CV Q (%),37.2 / 17.8
+"Oracle RMSE on the target domain, median (%)",1.22
+"Share of the deployed-minus-oracle gap from the expected-output (label-level) term, median (%)",37
+Domains in which the top error feature equals the top prediction-shift feature,12 of 13
+"Spearman of error terms with prediction-shift terms, median",0.86

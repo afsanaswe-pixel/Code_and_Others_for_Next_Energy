@@ -1,0 +1,3 @@
+SOH reference,Median RMSE (%),After projection (%),Cells improved (%),LB valid (%),Squared error removed (%),Largest initial SOH
+first five cycles,2.37,2.13,98.71,100.0,6.13,1.0
+nominal,3.14,2.81,100.0,100.0,8.61,1.119
